@@ -77,7 +77,7 @@ This project presents an interactive **HR Analytics Dashboard** built in **Micro
 > Add your dashboard screenshot here.
 
 ```markdown
-![Dashboard](images p5/Dashboard.png)
+![Dashboard](imagesp5/Dashboard.png)
 ```
 
 You can also include additional screenshots such as:
