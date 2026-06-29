@@ -75,6 +75,8 @@ This project presents an interactive **HR Analytics Dashboard** built in **Micro
 ### Main Dashboard
 
 ![Dashboard](imagesp5/Dashboard.png)
+![Dashboard](imagesp5/Dashboard2.png)
+![Dashboard](imagesp5/Dashboard3.png)
 ## 📂 Project Structure
 
 ```text
