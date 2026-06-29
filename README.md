@@ -73,21 +73,8 @@ This project presents an interactive **HR Analytics Dashboard** built in **Micro
 ## 📷 Dashboard Preview
 
 ### Main Dashboard
-
-> Add your dashboard screenshot here.
-
-```markdown
-![Dashboard](imagesp5/Dashboard.png)
 ```
-
-You can also include additional screenshots such as:
-
-* KPI Section
-* Slicer Interaction
-* Department Analysis
-* Income Analysis
-
----
+![Dashboard](imagesp5/Dashboard.png)
 
 ## 📂 Project Structure
 
